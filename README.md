@@ -9,6 +9,6 @@ Reference:
 
 ### Benchmarking the C++ code with faust2bench
 
-- faust2bench -inj adapterTemplate.cpp adapter.dsp
+- `faust2bench -inj adapterTemplate.cpp adapter.dsp`
 
-- ./adapter
+- `./adapter`
